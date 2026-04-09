@@ -5,17 +5,57 @@ on:
     - cron: "0 23 * * *"
   workflow_dispatch:
 
+concurrency: repo-stats
+
 jobs:
   stats:
     runs-on: ubuntu-latest
     strategy:
       matrix:
         repository:
-          - AiratTop/n8n-self-hosted
-          - AiratTop/qdrant-self-hosted
-          - AiratTop/ollama-self-hosted
-          - AiratTop/clickhouse-self-hosted
-          - AiratTop/metabase-self-hosted
+          # Profile
+          - "AiratTop/AiratTop"
+
+          # Self-hosted
+          - "AiratTop/authentik-self-hosted"
+          - "AiratTop/beszel-self-hosted"
+          - "AiratTop/caddy-self-hosted"
+          - "AiratTop/clickhouse-self-hosted"
+          - "AiratTop/gatus-self-hosted"
+          - "AiratTop/metabase-self-hosted"
+          - "AiratTop/monitoring-self-hosted"
+          - "AiratTop/mysql-self-hosted"
+          - "AiratTop/n8n-self-hosted"
+          - "AiratTop/ollama-self-hosted"
+          - "AiratTop/postgresql-self-hosted"
+          - "AiratTop/qdrant-self-hosted"
+          - "AiratTop/redis-self-hosted"
+          - "AiratTop/wordpress-self-hosted"
+
+          # API
+          - "AiratTop/dns.api.airat.top"
+          - "AiratTop/ip.api.airat.top"
+          - "AiratTop/meta.api.airat.top"
+          - "AiratTop/num2words.api.airat.top"
+          - "AiratTop/translit.api.airat.top"
+          - "AiratTop/uuid.api.airat.top"
+          - "AiratTop/whois.api.airat.top"
+
+          # Tools / web apps / services
+          - "AiratTop/json.airat.top"
+          - "AiratTop/md.airat.top"
+          - "AiratTop/miner.airat.top"
+          - "AiratTop/mytasks"
+          - "AiratTop/pass.airat.top"
+          - "AiratTop/random.airat.top"
+          - "AiratTop/task.airat.top"
+          - "AiratTop/utm.airat.top"
+          - "AiratTop/uuid.airat.top"
+          - "AiratTop/ad-generator"
+
+          # Utility / misc
+          - "AiratTop/imagemagick-watermark"
+          - "AiratTop/phpmyadmin-update"
       fail-fast: false
       max-parallel: 1
 
