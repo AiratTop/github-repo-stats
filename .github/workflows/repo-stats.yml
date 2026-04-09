@@ -8,9 +8,20 @@ on:
 jobs:
   stats:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        repository:
+          - AiratTop/n8n-self-hosted
+          - AiratTop/qdrant-self-hosted
+          - AiratTop/ollama-self-hosted
+          - AiratTop/clickhouse-self-hosted
+          - AiratTop/metabase-self-hosted
+      fail-fast: false
+      max-parallel: 1
+
     steps:
       - name: Run GitHub Repo Stats
         uses: jgehrcke/github-repo-stats@v1.4.2
         with:
-          repository: AiratTop/n8n-self-hosted
+          repository: ${{ matrix.repository }}
           ghtoken: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
