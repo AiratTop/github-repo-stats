@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/AiratTop/postgresql-self-hosted,8,8
+/AiratTop/postgresql-self-hosted/blob/main/.env,3,1
+/AiratTop/postgresql-self-hosted/blob/main/.github/CONTRIBUTING.md,3,1
+/AiratTop/postgresql-self-hosted/blob/main/.github/CODE_OF_CONDUCT.md,1,1
+/AiratTop/postgresql-self-hosted/blob/main/.github/FUNDING.yml,1,1
+/AiratTop/postgresql-self-hosted/blob/main/.gitignore,1,1
+/AiratTop/postgresql-self-hosted/blob/main/LICENSE,1,1
+/AiratTop/postgresql-self-hosted/blob/main/backup.sh,1,1
+/AiratTop/postgresql-self-hosted/blob/main/restart-docker.sh,1,1
+/AiratTop/postgresql-self-hosted/blob/main/update-docker.sh,1,1
