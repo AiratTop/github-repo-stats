@@ -1,5 +1,7 @@
 # GitHub Repo Stats
 
+![github-repo-stats](https://repository-images.githubusercontent.com/1206398195/31f2d48a-2b53-497e-aab3-9fa9989273a9)
+
 This repository collects and stores long-term GitHub repository analytics for the public repositories of [AiratTop](https://github.com/AiratTop) using the [github-repo-stats](https://github.com/jgehrcke/github-repo-stats) GitHub Action.
 
 ## Features
@@ -47,7 +49,6 @@ This repository collects and stores long-term GitHub repository analytics for th
 
 ### Tools / Web Apps / Services
 
-- [**ad-generator**](https://github.com/AiratTop/ad-generator)
 - [**json.airat.top**](https://github.com/AiratTop/json.airat.top)
 - [**md.airat.top**](https://github.com/AiratTop/md.airat.top)
 - [**miner.airat.top**](https://github.com/AiratTop/miner.airat.top)
@@ -60,6 +61,7 @@ This repository collects and stores long-term GitHub repository analytics for th
 
 ### Utility / Misc
 
+- [**ad-generator**](https://github.com/AiratTop/ad-generator)
 - [**imagemagick-watermark**](https://github.com/AiratTop/imagemagick-watermark)
 - [**phpmyadmin-update**](https://github.com/AiratTop/phpmyadmin-update)
 
