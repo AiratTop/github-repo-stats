@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/AiratTop/wordpress-self-hosted,9,8
+/AiratTop/wordpress-self-hosted/blob/main/docker-compose.yml,5,3
+/AiratTop/wordpress-self-hosted/tree/main,4,3
+/AiratTop/wordpress-self-hosted/tree/main/config,4,2
+/AiratTop/wordpress-self-hosted/blob/main/config/Caddyfile,2,1
+/AiratTop/wordpress-self-hosted/blob/main/config/php.ini,2,1
+/AiratTop/wordpress-self-hosted/blob/main/.env,1,1
+/AiratTop/wordpress-self-hosted/blob/main/AGENTS.md,1,1
+/AiratTop/wordpress-self-hosted/blob/main/README.md,1,1
+/AiratTop/wordpress-self-hosted/blob/main/restart-docker.sh,1,1
