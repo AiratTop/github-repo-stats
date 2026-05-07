@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/AiratTop/imagemagick-watermark/pulls,4,4
+/AiratTop/imagemagick-watermark,2,2
+/AiratTop/imagemagick-watermark/compare/main...{{ urlEncodedRefName }},1,1
+/AiratTop/imagemagick-watermark/compare/{{ urlEncodedRefName }}...main,1,1
+/AiratTop/imagemagick-watermark/issues,1,1
