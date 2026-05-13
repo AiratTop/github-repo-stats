@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/AiratTop/postgresql-self-hosted,7,6
+/AiratTop/postgresql-self-hosted/blob/main/docker-compose.yml,5,3
+/AiratTop/postgresql-self-hosted/blob/main/backup.sh,2,1
+/AiratTop/postgresql-self-hosted/blob/main/.env,1,1
+/AiratTop/postgresql-self-hosted/blob/main/.gitignore,1,1
+/AiratTop/postgresql-self-hosted/blob/main/AGENTS.md,1,1
+/AiratTop/postgresql-self-hosted/blob/main/README.md,1,1
+/AiratTop/postgresql-self-hosted/blob/main/restart-docker.sh,1,1
+/AiratTop/postgresql-self-hosted/blob/main/update-docker.sh,1,1
+/AiratTop/postgresql-self-hosted/tree/main/.github,1,1
