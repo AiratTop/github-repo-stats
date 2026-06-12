@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/AiratTop/monitoring-self-hosted,3,3
+/AiratTop/monitoring-self-hosted/blob/main/prometheus/prometheus.yml,2,1
+/AiratTop/monitoring-self-hosted/commit/edaa209e24dd9d901c048a904e88ddecc034a867,2,1
+/AiratTop/monitoring-self-hosted/tree/main/prometheus,2,1
+/AiratTop/monitoring-self-hosted/blob/main/.env,1,1
+/AiratTop/monitoring-self-hosted/blob/main/AGENTS.md,1,1
+/AiratTop/monitoring-self-hosted/blob/main/docker-compose.yml,1,1
+/AiratTop/monitoring-self-hosted/blob/main/grafana/provisioning/datasources/prometheus-datasource.yml,1,1
+/AiratTop/monitoring-self-hosted/blob/main/restart-docker.sh,1,1
+/AiratTop/monitoring-self-hosted/blob/main/update-docker.sh,1,1
