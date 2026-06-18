@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/AiratTop/mysql-self-hosted,2,2
+/AiratTop/mysql-self-hosted/blob/main/.env,2,1
+/AiratTop/mysql-self-hosted/blob/main/docker-compose.yml,2,1
+/AiratTop/mysql-self-hosted/blob/main/.gitignore,1,1
+/AiratTop/mysql-self-hosted/blob/main/backup.sh,1,1
+/AiratTop/mysql-self-hosted/blob/main/restart-docker.sh,1,1
+/AiratTop/mysql-self-hosted/blob/main/update-docker.sh,1,1
+/AiratTop/mysql-self-hosted/tree/main,1,1
