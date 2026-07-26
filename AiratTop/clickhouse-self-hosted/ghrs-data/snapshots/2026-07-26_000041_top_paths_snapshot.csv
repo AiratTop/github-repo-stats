@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/AiratTop/clickhouse-self-hosted,4,1
+/AiratTop/clickhouse-self-hosted/blob/main/clickhouse/disable-telemetry.xml,1,1
+/AiratTop/clickhouse-self-hosted/blob/main/docker-compose.yml,1,1
+/AiratTop/clickhouse-self-hosted/pulls,1,1
