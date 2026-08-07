@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/AiratTop/n8n-self-hosted,14,14
+/AiratTop/n8n-self-hosted/blob/main/docker-compose.yml,6,6
+/AiratTop/n8n-self-hosted/blob/main/.env,2,2
+/AiratTop/n8n-self-hosted/commit/ce40cece5a30ba94fac3d3bd12ab860a18823480,2,2
+/AiratTop/n8n-self-hosted/blob/main/backup.sh,2,1
+/AiratTop/n8n-self-hosted/blob/main/config/Caddyfile,1,1
+/AiratTop/n8n-self-hosted/blob/main/restart-docker.sh,1,1
+/AiratTop/n8n-self-hosted/issues,1,1
+/AiratTop/n8n-self-hosted/pulls,1,1
+/AiratTop/n8n-self-hosted/tree/main/config,1,1
