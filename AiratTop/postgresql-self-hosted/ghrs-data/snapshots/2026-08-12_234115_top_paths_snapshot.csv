@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/AiratTop/postgresql-self-hosted,14,8
+/AiratTop/postgresql-self-hosted/blob/main/backup.sh,1,1
+/AiratTop/postgresql-self-hosted/blob/main/docker-compose.yml,1,1
+/AiratTop/postgresql-self-hosted/blob/main/restart-docker.sh,1,1
+/AiratTop/postgresql-self-hosted/blob/main/update-docker.sh,1,1
