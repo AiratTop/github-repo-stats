@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/AiratTop/monitoring-self-hosted,4,3
+/AiratTop/monitoring-self-hosted/tree/main/.github,1,1
+/AiratTop/monitoring-self-hosted/tree/main/grafana/provisioning/datasources,1,1
+/AiratTop/monitoring-self-hosted/tree/main/prometheus,1,1
