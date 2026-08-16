@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/AiratTop/qdrant-self-hosted/blob/main/update-docker.sh,26,7
+/AiratTop/qdrant-self-hosted,17,14
+/AiratTop/qdrant-self-hosted/blob/main/docker-compose.yml,9,5
+/AiratTop/qdrant-self-hosted/blob/main/create-docker-volume.sh,8,5
+/AiratTop/qdrant-self-hosted/blob/main/restart-docker.sh,5,4
+/AiratTop/qdrant-self-hosted/blob/main/.env,4,4
+/AiratTop/qdrant-self-hosted/blob/main/LICENSE,4,2
+/AiratTop/qdrant-self-hosted/blob/main/AGENTS.md,3,3
+/AiratTop/qdrant-self-hosted/blob/main/README.md,2,2
+/AiratTop/qdrant-self-hosted/blob/main/.gitignore,1,1
