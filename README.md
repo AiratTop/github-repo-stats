@@ -2,7 +2,7 @@
 
 ![github-repo-stats](https://repository-images.githubusercontent.com/1206398195/31f2d48a-2b53-497e-aab3-9fa9989273a9)
 
-This repository collects and stores long-term GitHub repository analytics for the public repositories of [AiratTop](https://github.com/AiratTop) using the [github-repo-stats](https://github.com/jgehrcke/github-repo-stats) GitHub Action.
+This repository collects and stores long-term GitHub repository analytics for public repositories maintained by [AiratTop](https://github.com/AiratTop) using the [github-repo-stats](https://github.com/jgehrcke/github-repo-stats) GitHub Action.
 
 ## Features
 
@@ -19,6 +19,12 @@ This repository collects and stores long-term GitHub repository analytics for th
 ### Profile
 
 - [**AiratTop**](https://github.com/AiratTop/AiratTop)
+
+### Public Pages
+
+- [**about.airat.top**](https://github.com/AiratTop/about.airat.top)
+- [**privacy.airat.top**](https://github.com/AiratTop/privacy.airat.top)
+- [**terms.airat.top**](https://github.com/AiratTop/terms.airat.top)
 
 ### Self-hosted
 
@@ -56,14 +62,20 @@ This repository collects and stores long-term GitHub repository analytics for th
 - [**pass.airat.top**](https://github.com/AiratTop/pass.airat.top)
 - [**random.airat.top**](https://github.com/AiratTop/random.airat.top)
 - [**task.airat.top**](https://github.com/AiratTop/task.airat.top)
+- [**ulid.airat.top**](https://github.com/AiratTop/ulid.airat.top)
 - [**utm.airat.top**](https://github.com/AiratTop/utm.airat.top)
 - [**uuid.airat.top**](https://github.com/AiratTop/uuid.airat.top)
 
 ### Utility / Misc
 
 - [**ad-generator**](https://github.com/AiratTop/ad-generator)
+- [**github-repo-stats**](https://github.com/AiratTop/github-repo-stats)
 - [**imagemagick-watermark**](https://github.com/AiratTop/imagemagick-watermark)
 - [**phpmyadmin-update**](https://github.com/AiratTop/phpmyadmin-update)
+
+### Orator.Space
+
+- [**orator-space**](https://github.com/orator-space/orator-space)
 
 ## Workflow
 
@@ -71,7 +83,7 @@ This repository uses a GitHub Actions workflow located at:
 
 ```text
 .github/workflows/repo-stats.yml
-````
+```
 
 The workflow:
 

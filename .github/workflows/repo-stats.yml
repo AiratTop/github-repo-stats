@@ -16,6 +16,11 @@ jobs:
           # Profile
           - "AiratTop/AiratTop"
 
+          # Public pages
+          - "AiratTop/about.airat.top"
+          - "AiratTop/privacy.airat.top"
+          - "AiratTop/terms.airat.top"
+
           # Self-hosted
           - "AiratTop/authentik-self-hosted"
           - "AiratTop/beszel-self-hosted"
@@ -49,14 +54,17 @@ jobs:
           - "AiratTop/pass.airat.top"
           - "AiratTop/random.airat.top"
           - "AiratTop/task.airat.top"
+          - "AiratTop/ulid.airat.top"
           - "AiratTop/utm.airat.top"
           - "AiratTop/uuid.airat.top"
-          - "AiratTop/ad-generator"
 
           # Utility / misc
+          - "AiratTop/ad-generator"
+          - "AiratTop/github-repo-stats"
           - "AiratTop/imagemagick-watermark"
           - "AiratTop/phpmyadmin-update"
-          
+
+          # Orator.Space
           - "orator-space/orator-space"
       fail-fast: false
       max-parallel: 4
