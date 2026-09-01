@@ -121,13 +121,18 @@ The workflow also runs automatically every day based on the configured cron sche
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+The original workflow configuration and technical documentation in this repository are licensed
+under the [Apache License 2.0](LICENSE), with copyright details in [NOTICE](NOTICE).
+
+The external `jgehrcke/github-repo-stats` GitHub Action remains a third-party component distributed
+under Apache-2.0 by its copyright holders. Generated analytics data remains subject to the rights
+and licenses applicable to its source data and generating tools.
 
 ---
 
 ## Author
 
-**AiratTop**
+**AiratTop (Airat Halitov)**
 
 * Website: [airat.top](https://airat.top)
 * GitHub: [@AiratTop](https://github.com/AiratTop)
