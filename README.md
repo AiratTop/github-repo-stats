@@ -61,6 +61,7 @@ This repository collects and stores long-term GitHub repository analytics for pu
 - [**mytasks**](https://github.com/AiratTop/mytasks)
 - [**pass.airat.top**](https://github.com/AiratTop/pass.airat.top)
 - [**random.airat.top**](https://github.com/AiratTop/random.airat.top)
+- [**secret.airat.top**](https://github.com/AiratTop/secret.airat.top)
 - [**task.airat.top**](https://github.com/AiratTop/task.airat.top)
 - [**ulid.airat.top**](https://github.com/AiratTop/ulid.airat.top)
 - [**utm.airat.top**](https://github.com/AiratTop/utm.airat.top)

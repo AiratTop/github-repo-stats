@@ -53,6 +53,7 @@ jobs:
           - "AiratTop/mytasks"
           - "AiratTop/pass.airat.top"
           - "AiratTop/random.airat.top"
+          - "AiratTop/secret.airat.top"
           - "AiratTop/task.airat.top"
           - "AiratTop/ulid.airat.top"
           - "AiratTop/utm.airat.top"
