@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/AiratTop/wordpress-self-hosted,13,12
+/AiratTop/wordpress-self-hosted/blob/main/docker-compose.yml,6,2
+/AiratTop/wordpress-self-hosted/blob/main/config/php.ini,4,1
+/AiratTop/wordpress-self-hosted/tree/main/config,4,1
+/AiratTop/wordpress-self-hosted/blob/main/.env,3,2
+/AiratTop/wordpress-self-hosted/blob/main/update-docker.sh,3,2
+/AiratTop/wordpress-self-hosted/blob/main/backup.sh,1,1
+/AiratTop/wordpress-self-hosted/blob/main/restart-docker.sh,1,1
+/AiratTop/wordpress-self-hosted/tree/main,1,1
