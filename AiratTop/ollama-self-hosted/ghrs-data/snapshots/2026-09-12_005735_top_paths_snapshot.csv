@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/AiratTop/ollama-self-hosted,35,29
+/AiratTop/ollama-self-hosted/blob/main/docker-compose.yml,8,6
+/AiratTop/ollama-self-hosted/blob/main/.env,3,2
+/AiratTop/ollama-self-hosted/blob/main/AGENTS.md,2,2
+/AiratTop/ollama-self-hosted/blob/main/README.md,2,2
+/AiratTop/ollama-self-hosted/blob/main/restart-docker.sh,1,1
+/AiratTop/ollama-self-hosted/blob/main/update-docker.sh,1,1
+/AiratTop/ollama-self-hosted/issues,1,1
+/AiratTop/ollama-self-hosted/pulls,1,1
+/AiratTop/ollama-self-hosted/tree/main/.github,1,1
