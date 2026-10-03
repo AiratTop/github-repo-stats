@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/AiratTop/authentik-self-hosted,40,35
+/AiratTop/authentik-self-hosted/blob/main/docker-compose.yml,16,8
+/AiratTop/authentik-self-hosted/blob/main/restart-docker.sh,3,2
+/AiratTop/authentik-self-hosted/blob/main/update-docker.sh,2,2
+/AiratTop/authentik-self-hosted/blob/main/.env,1,1
+/AiratTop/authentik-self-hosted/blob/main/AGENTS.md,1,1
+/AiratTop/authentik-self-hosted/blob/main/README.md,1,1
+/AiratTop/authentik-self-hosted/branches,1,1
+/AiratTop/authentik-self-hosted/commit/e8a294fa3ff13fcec50947b99d60edaab1381ffb,1,1
+/AiratTop/authentik-self-hosted/issues,1,1
